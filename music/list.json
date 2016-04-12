@@ -1,4 +1,4 @@
-var list = {
+{
     "Bill Withers-Ain't No Sunshine": {
         "title":"Ain't No Sunshine",
         "artist":"Bill Withers",
@@ -12,8 +12,4 @@ var list = {
         "artist":"ZAYAN",
     },
     
-    
-    
-    
-    
-};
+}
