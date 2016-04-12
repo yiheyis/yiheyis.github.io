@@ -1,15 +1,14 @@
 {
     "Bill Withers-Ain't No Sunshine": {
         "title":"Ain't No Sunshine",
-        "artist":"Bill Withers",
+        "artist":"Bill Withers"
     },
     "Nina Simon-NE ME QUITTE PAS": {
          "title":"Nina Simon",
-         "artist":"NE ME QUITTE PAS"
+         "artist":"Ne Me Quitte Pas"
     },
     "ZAYAN-PILLOWTALK": {
          "title":"PILLOWTALK",
-        "artist":"ZAYAN",
-    },
-    
+        "artist":"ZAYAN"
+    }
 }
